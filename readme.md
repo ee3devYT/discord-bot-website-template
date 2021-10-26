@@ -19,6 +19,12 @@
 ### Open your terminal and type `npm install`
 ![Image](https://cdn.discordapp.com/attachments/901406878041509941/902588737723203584/1635264314796.png)
 
+## Create a '.env' file 
+### And Put
+`TOKEN=myBotToken`
+
+`MONGODB_URI=myMongoDB`
+
 ### Type `npm start` to run your project
 ![image](https://cdn.discordapp.com/attachments/901406878041509941/902590105183744040/1635264639316.jpg)
 
