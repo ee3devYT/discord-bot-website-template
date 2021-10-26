@@ -1,0 +1,101 @@
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0a0a0a;
+}
+nav{
+    
+    
+    height: 100px;
+    width: 600px;
+    min-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+a{
+    position: relative;
+    text-decoration: none;
+    font-family: 'Poppins',sans-serif;
+    color: #a0a0a0;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    padding: 0 10px;
+}
+a:after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+}
+a:hover{
+    color: #ffffff;
+}
+a:hover:after{
+    width: 100%;
+}
+.botname{
+    font-size: 80px;
+    color: #ffffff;
+}
+.desc{
+    font-size: 20px;
+    color: #ffffff;
+    margin: 20px auto;
+}
+.content{
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    font-family: sans-serif;
+}
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    background: none;
+    border-color: #ff3c78;
+    border-radius: 25px;
+    color: #ffffff;
+    margin: 20px 10px;
+    position: relative;
+    overflow: hidden;
+}
+span{
+    background-color: #ff3c78;
+    height: 100%;
+    width: 0%;
+    position: absolute;
+    border-radius: 25px;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+button:hover span{
+    width: 100%;
+}
+button:hover{
+    border:none;
+}
+.logo{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 45%;
+    
+    background-size: cover;
+    top: -80%;
+    
+}
