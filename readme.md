@@ -1,6 +1,6 @@
 # Discord Bot template with website support
 
-## Import things to know!
+## Important things to know!
 
 - Required [nodejs](https://nodejs.org/en/) version 16 or above.
 - Made with [discord.js](https://discord.js.org/#/) and [wokcommands](https://docs.wornoffkeys.com/)
