@@ -24,6 +24,7 @@
 `TOKEN=myBotToken`
 
 `MONGODB_URI=myMongoDB`
+![Image](https://media.discordapp.net/attachments/888727271081390100/902859178605957130/1635265542730.png)
 
 ### Type `npm start` to run your project
 ![image](https://cdn.discordapp.com/attachments/901406878041509941/902590105183744040/1635264639316.jpg)
