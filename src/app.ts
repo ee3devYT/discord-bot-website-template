@@ -23,8 +23,8 @@ client.on('ready', async() => {
         commandsDir: path.join(__dirname, 'commands'),
         featuresDir: path.join(__dirname, 'features'),
         typeScript: true,
-        testServers: ['901406878041509938'],
-        botOwners: ['872788259527335976'],
+        testServers: ['901406878041509938'], // remove this if your bot is working in multiple servers || use this while testing
+        botOwners: ['872788259527335976'], // replace with your id || How to copy user id - https://www.youtube.com/watch?v=v7HktJOlXo8
         mongoUri: process.env.MONGO_URI
     })
 })
