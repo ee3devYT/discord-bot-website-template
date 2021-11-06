@@ -7,7 +7,7 @@
 
 ### Language and tools
 
-- [Typescript](https://www.typescriptlang.org/) | [Html](https://html.com/) | [Css](https://www.w3schools.com/css/css_intro.asp) • [Visual studio code](https://code.visualstudio.com/)
+- [Typescript](https://www.typescriptlang.org/) | [Html](https://html.com/) | [Css](https://www.w3schools.com/css/css_intro.asp)‎‎•‎‎[Visual studio code](https://code.visualstudio.com/)
 # How to use ?
 
 ### Download the code 
