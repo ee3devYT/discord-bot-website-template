@@ -1,9 +1,9 @@
 # Discord Bot template with website support
 
-## Important things to know!
-
+## Required ⬇
+- Required a brain 🧠
 - Required [nodejs](https://nodejs.org/en/) version 16 or above.
-- Made with [discord.js](https://discord.js.org/#/) and [wokcommands](https://docs.wornoffkeys.com/)
+- Made with [Discord.js](https://discord.js.org/#/) | [Wokcommands](https://docs.wornoffkeys.com/) | [MongoDB](https://www.mongodb.com/)
 
 ### Language and tools
 
