@@ -16,7 +16,10 @@
 ### Extract and import the code in your IDE for example [Visual Studio Code](https://code.visualstudio.com/)
 ![Image](https://cdn.discordapp.com/attachments/901406878041509941/902582143480389672/unknown.png)
 
-### Open your terminal and type `npm install`
+### Open your terminal and type 
+```bash
+npm install    
+```
 ![Image](https://cdn.discordapp.com/attachments/901406878041509941/902588737723203584/1635264314796.png)
 
 ## Create a '.env' file 
